@@ -1,0 +1,6 @@
+{
+  "name": "ScrappyPat's Junk Removal",
+  "description": "Professional residential junk removal service featuring an interactive booking system and real-time truck tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
